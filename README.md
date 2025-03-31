@@ -4,7 +4,7 @@ Generating a test redirect URL for testing the development environment — for r
 **Endpoint**
 ```
 
-https://tub3.net
+https://click.tub3.net/M03y1MT6?
 
 ```
 
