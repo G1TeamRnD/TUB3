@@ -21,9 +21,9 @@ sub_id10 -- used to redirect to url
 ```
 
 sub_id2 = test
-sub_id10 = https://google.com
+sub_id10 = google.com
 The sharable result should be like this:
-https://click.tub3.net/M03y1MT6?sub_id2=test&sub_id10=https%3A%2F%2Fgoogle.com
+https://click.tub3.net/M03y1MT6?sub_id2=test&sub_id10=google.com
 
 ```
 
