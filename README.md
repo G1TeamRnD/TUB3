@@ -26,3 +26,22 @@ The sharable result should be like this:
 https://click.tub3.net/M03y1MT6?sub_id2=test&sub_id10=https%3A%2F%2Fgoogle.com
 
 ```
+
+---
+
+### How to encode URL?
+
+#### Online tools:
+
+- [urlencoder.org](https://www.urlencoder.org/)
+    
+- [urldecoder.io](https://www.urldecoder.io/)
+    
+
+#### In JS:
+
+```
+
+encodeURIComponent("https://google.com") // returns: "https%3A%2F%2Fgoogle.com"
+
+```
